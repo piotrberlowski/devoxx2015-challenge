@@ -45,3 +45,5 @@ gc.log.0
 
 config
 .java-version
+/bin/
+/test-output/

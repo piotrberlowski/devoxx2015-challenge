@@ -1,5 +1,6 @@
 package pl.allegro.promo.devoxx2015.domain;
 
+
 public class Offer {
 
     private final String id;
@@ -33,4 +34,5 @@ public class Offer {
     public boolean hasPrettyPhoto() {
         return photoScore >= 0.7;
     }
+    
 }
